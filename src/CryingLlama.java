@@ -7,7 +7,7 @@ import javax.sound.sampled.Clip;
 public class CryingLlama {
 
 	CryingLlama() {
-		File FileToRead = new File("/Volumes/WTS Storage/Software/league-jars-2/llama.wav");
+		File FileToRead = new File("/Users/Guest/LeagueStuff/league-sounds/llama.wav");
 		playNoise(FileToRead);
 	}
 
