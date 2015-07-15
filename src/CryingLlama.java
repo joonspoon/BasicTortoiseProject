@@ -7,7 +7,7 @@ import javax.sound.sampled.Clip;
 public class CryingLlama {
 
 	CryingLlama() {
-		File FileToRead = new File("/Users/Guest/Google Drive/LeagueStuff/league-sounds/llama.wav");
+		File FileToRead = new File("/Users/Guest/Google Drive/league-sounds/llama.wav");
 		playNoise(FileToRead);
 	}
 
